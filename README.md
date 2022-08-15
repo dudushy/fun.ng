@@ -15,8 +15,12 @@ Playing with Angular.
   ng new fun
 
   ? Would you like to share anonymous usage data about this project with the Angular Team at
-Google under Google’s Privacy Policy at https://policies.google.com/privacy. For more
-details and how to change this setting, see https://angular.io/analytics. No
+  Google under Google’s Privacy Policy at https://policies.google.com/privacy. For more
+  details and how to change this setting, see https://angular.io/analytics. No
+
+  ? Would you like to add Angular routing? Yes
+
+  ? Which stylesheet format would you like to use? SCSS
   ```
 
 1. Run project
