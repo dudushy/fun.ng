@@ -1,6 +1,8 @@
 # [fun.ng](https://github.com/dudushy/fun.ng/)
 Playing with Angular.
 
+---
+
 ## Prerequisites:
 - [NodeJS](https://nodejs.org/)
 
