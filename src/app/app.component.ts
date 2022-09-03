@@ -12,9 +12,12 @@ export class AppComponent {
 
   constructor(
     private router: Router
-  ) { }
+  ) {
+    console.log('[AppComponent#constructor]');
+  }
 
   redirectTo(url:string) {
-    this.router.navigate(`/${url}`);
+    console.log('[AppComponent#redirectTo] url', url);
+    this.router.navigateByUrl(`/${url}`);
   }
 }
