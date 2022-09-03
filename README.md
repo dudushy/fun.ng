@@ -23,7 +23,10 @@ Playing with Angular.
     ? Which stylesheet format would you like to use? SCSS
     ```
 
-1. Run project
+1. Generate
+    > [steps.sh](/steps.sh)
+
+2. Run project
     ```bash
-    cd fun && ng serve
+    ng serve
     ```
