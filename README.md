@@ -26,7 +26,16 @@ Playing with Angular.
 1. Generate
     > [steps.sh](/steps.sh)
 
-2. Run project
+1. Run project
     ```bash
     ng serve
+    ```
+
+1. Build project
+    ```bash
+    npm i angular-cli-ghpages --save-dev
+
+    ng build --base-href "https://dudushy.github.io/fun.ng/"
+
+    npx angular-cli-ghpages --dir=dist/fun
     ```
