@@ -5,5 +5,7 @@ import { Injectable } from '@angular/core';
 })
 export class GlobalVariablesService {
 
-  constructor() { }
+  constructor() {
+    console.log('[GlobalVariablesService#constructor]');
+  }
 }
