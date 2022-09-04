@@ -1,4 +1,4 @@
-# [fun.ng](https://github.com/dudushy/fun.ng/)
+# [fun.ng](https://dudushy.github.io/fun.ng/)
 Playing with Angular.
 > version 14.1.2
 
