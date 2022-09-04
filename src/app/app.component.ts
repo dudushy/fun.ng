@@ -11,7 +11,7 @@ export class AppComponent {
   title = 'fun';
 
   constructor(
-    private router: Router
+    private router: Router,
   ) {
     console.log('[AppComponent#constructor]');
   }
